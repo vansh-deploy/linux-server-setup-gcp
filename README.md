@@ -37,7 +37,9 @@ User → Public IP → GCP VM (Ubuntu) → Nginx → Static Website
 ---
 
 ## 📷 Screenshots
-<img width="601" height="734" alt="image" src="https://github.com/user-attachments/assets/782e07e1-d239-4645-9f16-0faf91a9a5e3" />
+![Website Screenshot](screenshots/website.png)
+
+![VM Screenshot](screenshots/vm.png)
 
 
 ---
