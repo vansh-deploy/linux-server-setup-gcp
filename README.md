@@ -44,6 +44,13 @@ User → Public IP → GCP VM (Ubuntu) → Nginx → Static Website
 
 ---
 
+## 🌐 Deployment Summary
+
+The web server was successfully deployed on a GCP Compute Engine VM.
+The application was tested via public IP and verified in a browser.
+
+*(Instance terminated after testing to prevent unnecessary billing.)*
+
 ## 🎯 Learning Outcomes
 - Understanding Linux server setup
 - Basic networking (IP, ports)
